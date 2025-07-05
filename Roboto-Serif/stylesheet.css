@@ -1,0 +1,270 @@
+@font-face {
+    font-family: 'Roboto Serif 28pt';
+    src: url('RobotoSerif28pt-SemiBoldItalic.woff2') format('woff2'),
+        url('RobotoSerif28pt-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 28pt';
+    src: url('RobotoSerif28pt-Regular.woff2') format('woff2'),
+        url('RobotoSerif28pt-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 28pt';
+    src: url('RobotoSerif28pt-ThinItalic.woff2') format('woff2'),
+        url('RobotoSerif28pt-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 36pt';
+    src: url('RobotoSerif36pt-ExtraBoldItalic.woff2') format('woff2'),
+        url('RobotoSerif36pt-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 72pt';
+    src: url('RobotoSerif72pt-Black.woff2') format('woff2'),
+        url('RobotoSerif72pt-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 36pt';
+    src: url('RobotoSerif36pt-ExtraLightItalic.woff2') format('woff2'),
+        url('RobotoSerif36pt-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 36pt';
+    src: url('RobotoSerif36pt-Black.woff2') format('woff2'),
+        url('RobotoSerif36pt-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 36pt';
+    src: url('RobotoSerif36pt-Medium.woff2') format('woff2'),
+        url('RobotoSerif36pt-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 36pt';
+    src: url('RobotoSerif36pt-BlackItalic.woff2') format('woff2'),
+        url('RobotoSerif36pt-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 36pt';
+    src: url('RobotoSerif36pt-ExtraBold.woff2') format('woff2'),
+        url('RobotoSerif36pt-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 36pt';
+    src: url('RobotoSerif36pt-Bold.woff2') format('woff2'),
+        url('RobotoSerif36pt-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 36pt';
+    src: url('RobotoSerif36pt-MediumItalic.woff2') format('woff2'),
+        url('RobotoSerif36pt-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 72pt';
+    src: url('RobotoSerif72pt-LightItalic.woff2') format('woff2'),
+        url('RobotoSerif72pt-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 72pt';
+    src: url('RobotoSerif72pt-ExtraLightItalic.woff2') format('woff2'),
+        url('RobotoSerif72pt-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 72pt';
+    src: url('RobotoSerif72pt-Italic.woff2') format('woff2'),
+        url('RobotoSerif72pt-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 72pt';
+    src: url('RobotoSerif72pt-SemiBoldItalic.woff2') format('woff2'),
+        url('RobotoSerif72pt-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 72pt';
+    src: url('RobotoSerif72pt-MediumItalic.woff2') format('woff2'),
+        url('RobotoSerif72pt-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 72pt';
+    src: url('RobotoSerif72pt-ExtraBold.woff2') format('woff2'),
+        url('RobotoSerif72pt-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 72pt';
+    src: url('RobotoSerif72pt-BoldItalic.woff2') format('woff2'),
+        url('RobotoSerif72pt-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 72pt';
+    src: url('RobotoSerif72pt-Bold.woff2') format('woff2'),
+        url('RobotoSerif72pt-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 72pt';
+    src: url('RobotoSerif72pt-BlackItalic.woff2') format('woff2'),
+        url('RobotoSerif72pt-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 120pt';
+    src: url('RobotoSerif120pt-BlackItalic.woff2') format('woff2'),
+        url('RobotoSerif120pt-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 120pt';
+    src: url('RobotoSerif120pt-BoldItalic.woff2') format('woff2'),
+        url('RobotoSerif120pt-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 120pt';
+    src: url('RobotoSerif120pt-Black.woff2') format('woff2'),
+        url('RobotoSerif120pt-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 120pt';
+    src: url('RobotoSerif120pt-Light.woff2') format('woff2'),
+        url('RobotoSerif120pt-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 120pt';
+    src: url('RobotoSerif120pt-ExtraLightItalic.woff2') format('woff2'),
+        url('RobotoSerif120pt-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 120pt';
+    src: url('RobotoSerif120pt-ExtraBoldItalic.woff2') format('woff2'),
+        url('RobotoSerif120pt-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 120pt';
+    src: url('RobotoSerif120pt-LightItalic.woff2') format('woff2'),
+        url('RobotoSerif120pt-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 120pt';
+    src: url('RobotoSerif120pt-ExtraBold.woff2') format('woff2'),
+        url('RobotoSerif120pt-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Serif 72pt';
+    src: url('RobotoSerif72pt-ThinItalic.woff2') format('woff2'),
+        url('RobotoSerif72pt-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
