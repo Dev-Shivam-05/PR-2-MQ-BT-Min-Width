@@ -200,38 +200,38 @@ header
 {
     position: relative;
 }
-.swiper-slide .main-content
+.swiper-slide .img-main-content
 {
     position: absolute;
     bottom: 40px;
     left: 40px;
 }
-.swiper-slide .main-content span
+.swiper-slide .img-main-content span
 {
     color: var(--theme-orange);
     font-size: 18px;
     font-weight: bold;
     text-transform: uppercase;
 }
-.swiper-slide .main-content h4
+.swiper-slide .img-main-content h4
 {
     color: var(--theme-white);
     font-size: 24px;
     letter-spacing: 1px;
     margin: 30px 0;
 }
-.swiper-slide .main-content ul li 
+.swiper-slide .img-main-content ul li 
 {
     color: var(--theme-white);
     font-size: 14px;
     font-weight: bold;
     transition: all .3s ease;
 }
-.swiper-slide .main-content ul li:hover
+.swiper-slide .img-main-content ul li:hover
 {
     color: var(--theme-orange);
 }
-.swiper-slide .main-content ul li a::after,
+.swiper-slide .img-main-content ul li a::after,
 .all-blog-post .blog-content .first-ul li a::after
 {
     content: '|';
@@ -240,7 +240,7 @@ header
     font-weight: 400;
     line-height: 1.5;
 }
-.swiper-slide .main-content ul li .last-li::after,
+.swiper-slide .img-main-content ul li .last-li::after,
 .all-blog-post .blog-content .first-ul li .last-li::after
 {
     content: '';
@@ -250,10 +250,22 @@ header
     line-height: 1.5; 
 }
 
-.swiper-slide .main-content ul li a::after:hover,
+.swiper-slide .img-main-content ul li a::after:hover,
 .all-blog-post .blog-content .first-ul li a::after:hover
 {
     color: var(--theme-white);
+}
+.swiper-slide .item
+{
+    text-align: center;
+}
+.swiper-slide .img-main-content
+{
+    text-align: left;
+}
+.swiper-slide .img-main-content ul
+{
+    justify-content: flex-start;
 }
 /* Hero's Section Ends  */
 
@@ -310,6 +322,13 @@ header
 .call-to-action .col-4 .main-button:hover
 {
     background-color: var(--theme-hover-orange);
+}
+
+.call-to-action .main-content .col-4
+{
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px 15px;
 }
 /* Call To Action Section Ends */
 
